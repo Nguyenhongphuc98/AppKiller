@@ -1,0 +1,15 @@
+{
+  "name": "forwarder",
+  "version": "1.0.0",
+  "description": "client manager",
+  "main": "index.js",
+  "scripts": {
+    "build": "nexe --build"
+  },
+  "author": "nguyenhongphuc98",
+  "license": "ISC",
+  "dependencies": {
+    "node-hide-console-window": "^2.1.1",
+    "node-window-manager-all": "^2.2.15"
+  }
+}
